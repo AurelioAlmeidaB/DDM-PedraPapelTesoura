@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Pedra Papel Tesoura</string>
+    <string name="tv_escolha_app">Escolha do App:</string>
+    <string name="tv_resultado_inicial">Escolha uma opção abaixo</string>
+    <string name="tv_escolha_usuario">Sua escolha:</string>
+    <string name="tv_placar">Você %1$d x %2$d App  |  Empates: %3$d</string>
+    <string name="resultado_vitoria">Você GANHOU! 🎉</string>
+    <string name="resultado_derrota">Você PERDEU! 😢</string>
+    <string name="resultado_empate">EMPATE! 🤝</string>
+    <string name="tv_criado_por">Criado por Aurelio Almeida</string>
+    <string name="desc_padrao">Escolha do app</string>
+    <string name="desc_pedra">Pedra</string>
+    <string name="desc_papel">Papel</string>
+    <string name="desc_tesoura">Tesoura</string>
+</resources>
